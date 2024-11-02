@@ -1,7 +1,7 @@
 variables:
   location: "northeurope"
   ManagementGroupPrefix: "contoso"
-  serviceConnectionName: "AMBA-Service-Connection"
+  serviceConnectionName: "Infrashift-AMBA-Service-Connection"
 
 pool:
   vmImage: ubuntu-latest
